@@ -10,4 +10,4 @@ anyways i do electronics, c(++)(#), lua
 
 
 
-also i use linux mint with jwm cuz my puter is a ***NUGGET***
+also i use linux mint
