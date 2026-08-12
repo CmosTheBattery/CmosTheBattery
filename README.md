@@ -1,13 +1,9 @@
 ### hello there
 
-do not ask about the first issue we do not talk about that here
+i do electronics, c(++)(#), lua, gdscript.
 
+also i use linux mint..
 
+this place is hella unprofessional this is not a representation of me formally in the SLIGHTEST.
 
-
-
-anyways i do electronics, c(++)(#), lua
-
-
-
-also i use linux mint
+do ***not*** ask about the first issue we do not talk about that here
