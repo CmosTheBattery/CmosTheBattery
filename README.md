@@ -1,6 +1,6 @@
 ### hello there
 
-i do electronics, c(++)(#), lua, gdscript.
+i do electronics, c, lua, gdscript.
 
 also i use linux mint..
 
