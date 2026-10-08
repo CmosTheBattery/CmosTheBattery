@@ -1,9 +1,9 @@
-### hello there
+# hello there
 
-i do electronics, c, lua, gdscript.
+I do electronics, C, Lua, GDScript.
 
-also i use linux mint..
+also I use Linux Mint (22.1 Cinnamon if you are wondering)..
 
-this place is hella unprofessional this is not a representation of me formally in the SLIGHTEST.
+do ***not*** ask about the first issue we do not talk about that here,
 
-do ***not*** ask about the first issue we do not talk about that here
+this place is **DEFINITELY** not formal and *IS NOT* a representation of me formally in the *SLIGHTEST*.
